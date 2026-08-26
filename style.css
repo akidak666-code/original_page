@@ -1,6 +1,5 @@
 body {
     background: linear-gradient(to right, #ff0000, #00ff00, #0000ff, #00000f, #0000f0,#000f00, #00f000, #0f0000, #f0ff0f);
-    padding:500px;
 }
 
 h1{
@@ -9,8 +8,8 @@ h1{
     text-align: center;
 }
 
-.a-images{
-    width:100%;
+img {
+    width: 100%;
 }
 
 div{
